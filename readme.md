@@ -26,3 +26,5 @@
 ### SQL Basic and Uses
 
 - SQL 기본/~p55
+
+- SQL 기본, 활용/~p74
